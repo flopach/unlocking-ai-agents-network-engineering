@@ -2,7 +2,7 @@
 name = "unlocking-ai-agents-network-engineering"
 version = "0.1.0"
 description = ""
-authors = ["flopach <florian.pachinger@gmail.com>"]
+authors = ["flopach"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
