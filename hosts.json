@@ -1,0 +1,14 @@
+{
+    "10.10.20.48" : {
+            "type" : "cisco catalyst ios xe",
+            "username" : "developer",
+            "password" : "C1sco12345"
+        },
+    "devnetsandboxiosxe.cisco.com" : {
+            "type" : "cisco catalyst ios xe",
+            "username" : "admin",
+            "password" : "C1sco12345"
+        }
+}   
+
+

@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "unlocking-ai-agents-network-engineering"
+version = "0.1.0"
+description = ""
+authors = ["flopach <florian.pachinger@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+smolagents = "^1.7.0"
+ollama = "^0.4.7"
+jupyter = "^1.1.1"
+netmiko = "^4.5.0"
+requests = "^2.32.3"
+ncclient = "^0.6.16"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
