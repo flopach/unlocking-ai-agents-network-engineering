@@ -4,15 +4,22 @@ version = "0.1.0"
 description = ""
 authors = ["flopach"]
 readme = "README.md"
+package-mode = false
 
 [tool.poetry.dependencies]
-python = "^3.12"
+python = ">=3.12,<3.13"
 smolagents = "^1.7.0"
 ollama = "^0.4.7"
 jupyter = "^1.1.1"
 netmiko = "^4.5.0"
 requests = "^2.32.3"
 ncclient = "^0.6.16"
+pydantic-ai = "^0.0.21"
+litellm = "^1.60.0"
+arize-phoenix = "^7.10.1"
+opentelemetry-sdk = "^1.29.0"
+opentelemetry-exporter-otlp = "^1.29.0"
+openinference-instrumentation-smolagents = "^0.1.2"
 
 
 [build-system]
